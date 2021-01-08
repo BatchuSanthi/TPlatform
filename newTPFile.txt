@@ -1,7 +1,7 @@
 This newTPFile is created locally. 
 added in local repo.
 And now it is added to remote git repo, through JGit.
-
+Now editing 4th line in git remote repo.
 Now this file is edited in remote git location and committed.
 
 added in remote git repo.
