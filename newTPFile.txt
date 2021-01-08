@@ -1,0 +1,3 @@
+This newTPFile is created locally. 
+
+And now it is added to remote git repo, through JGit.
